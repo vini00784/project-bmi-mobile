@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="calculate">Calculadora</string>
+    <string name="bmi">IMC</string>
+    <string name="login">Acceso</string>
+    <string name="your_email">Su e-mail</string>
+    <string name="your_pass">Su contraseña</string>
+    <string name="new_user">Registro</string>
+    <string name="logo_name">SENAI</string>
+    <string name="create_user">Crear usuario</string>
+    <string name="new_user2">Registro de nuevo usuario</string>
+    <string name="name">Nombre:</string>
+    <string name="email">Correo electrónico:</string>
+    <string name="password">Clave:</string>
+    <string name="weight">Peso:</string>
+    <string name="height">Altura:</string>
+    <string name="hint_name">Nomber</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Clave</string>
+    <string name="hint_weight">Peso</string>
+    <string name="hint_height">Altura</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="email_content">correoelectronico@user.com</string>
+    <string name="question_calculate">¿Vamos a calcular tu Índice de Masa Corporal ahora?</string>
+    <string name="weight_calculate">Peso: 74KG</string>
+    <string name="height_calculate">Altura: 1.75</string>
+    <string name="result_text">Este es tu resultado de IMC</string>
+    <string name="under_weight">Bajo peso!</string>
+    <string name="ideal_weight">Peso ideal!</string>
+    <string name="slightly_overweight">¡Un poco de sobrepeso!</string>
+    <string name="obesity_one">¡Obesidad grado I!</string>
+    <string name="obesity_two">¡Obesidad grado II!</string>
+    <string name="obesity_three">Obesidad grado III (mórbida) !</string>
+</resources>

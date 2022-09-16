@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi">BMI</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your e-mail</string>
+    <string name="your_pass">Your password</string>
+    <string name="new_user">Sign up</string>
+    <string name="logo_name">SENAI</string>
+    <string name="new_user2">New user registration</string>
+    <string name="name">Name:</string>
+    <string name="email">E-mail:</string>
+    <string name="password">Password:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_weight">Weight</string>
+    <string name="hint_height">Height</string>
+    <string name="create_user">Create user</string>
+    <string name="user_name">Username</string>
+    <string name="email_content">email@user.com</string>
+    <string name="question_calculate">Let\'s calculate your Body Mass Index now?</string>
+    <string name="weight_calculate">Weight: 74KG</string>
+    <string name="height_calculate">Height: 1.75</string>
+    <string name="result_text">This is your BMI result</string>
+    <string name="under_weight">Under weight!</string>
+    <string name="ideal_weight">Ideal weight!</string>
+    <string name="slightly_overweight">Slightly overweight!</string>
+    <string name="obesity_one">Grade I obesity!</string>
+    <string name="obesity_two">Grade II obesity!</string>
+    <string name="obesity_three">Grade III obesity (Morbid) !</string>
+</resources>
