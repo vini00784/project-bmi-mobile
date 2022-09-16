@@ -20,12 +20,7 @@ class ResultActivity : AppCompatActivity() {
 
         supportActionBar!!.hide()
 
-//        // Recuperar valores que estão na Intent
-//        val weight = intent.getStringExtra("weight").toString().toInt()
-//        val height = intent.getStringExtra("height").toString().toDouble()
-//        val result = intent.getStringExtra("bmi").toString().toDouble()
-//        binding.textViewResult.text = String.format("%.2f", result)
-
+        // Recuperar valores que estão na Intent
         val bmi = intent.getFloatExtra("bmi", 0.0f)
         val bmiStatus = intent.getStringExtra("bmiStatus")
 
